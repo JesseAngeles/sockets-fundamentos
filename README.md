@@ -1,9 +1,16 @@
-# Notas:
+# Sockets Fundamentos
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Aplicación de práctica sobre el uso de WebSockets con Node.js y Socket.IO.
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+## Tecnologías
 
-```
+- Node.js
+- Socket.IO
+- JavaScript
+
+## Ejecución
+
+```bash
 npm install
+npm start
 ```
